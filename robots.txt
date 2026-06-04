@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://azreus1991.github.io/freelance-rate-calculators/sitemap.xml
